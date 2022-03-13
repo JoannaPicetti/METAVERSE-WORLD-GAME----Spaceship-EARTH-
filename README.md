@@ -1,21 +1,21 @@
 # WORLD-PEACE-GAME----SPACESHIP-EARTH-
-WORLD PEACE GAME → SPACE where individuals or teams of people come and cooperate spontaneously to make the world work for 100% of Humanity through a Global Government --> Making the planet  better for 100% of Humanity -->  SOLVE CLIMATE CHANGE - SOLVE INEQUALITY
+WORLD PEACE GAME → SPACE where individuals or teams of people come and cooperate spontaneously to make the world work for 100% of Humanity through a Global Government --> Making the planet better for 100% of Humanity -->  SOLVE CLIMATE CHANGE - SOLVE INEQUALITY
 
 
 
 
 **Name**: WORLD PEACE GAME --> EARTH SPACESHIP 🌍
-**Description**: WORLD PEACE GAME → SPACE where individuals or teams of people come and cooperate spontaneously to make the world work for 100% of Humanity through a Global Government.  (Making the planet  better for 100% of Humanity ) 
-
-**Idea**:  I believe in SPACESHIP EARTH worldview →  https://en.wikipedia.org/wiki/Spaceship_Earth
-
-
-We travel together, passengers on a little space ship
+**Description**: Simulation tool → to solve the hardest problems of the planet Earth and govern our planet together. 
+                                 → to educate people to be responsible planetary citizens.
+                                 (Making the planet  better for 100% of Humanity )
 
 
-WORLD GAME 2022 → “ SPACESHIP EARTH “ or SPACE EARTH
+**Idea**:  We believe in SPACESHIP EARTH worldview →  https://en.wikipedia.org/wiki/Spaceship_Earth 
 
-PLANET DAO (I built Planet Earth DAO → Now building the world game in  the metaverse.
+
+We travel together, passengers on a little spaceship where we encounter to solve hardest problems of the Planet Earth.
+
+
 
 
 EARTH GAME
@@ -266,8 +266,9 @@ We need new ones with purposes of this ERA - after WWIII --> DIGITAL ECONOMY - C
 
 
 WE ARE SOLVING CRISIS OF INSTITUTIONS
-WE ARE SETTLE THE BASIS FOR THE FUTURE SPACE GOVERNANCE
 
+
+WE ARE SETTLE THE FOUNDATIONS FOR THE FUTURE SPACE GOVERNANCE
 
 
 
