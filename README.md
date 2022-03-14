@@ -1,5 +1,5 @@
-# WORLD-PEACE-GAME----SPACESHIP-EARTH-
-WORLD PEACE GAME → SPACE where individuals or teams of people come and cooperate spontaneously to make the world work for 100% of Humanity through a Global Government --> Making the planet better for 100% of Humanity -->  SOLVE CLIMATE CHANGE - SOLVE INEQUALITY
+# WORLD-PEACE-GAME----EARTH SPACESHIP(s)
+METAVERSE where individuals or teams of people come and cooperate to make the world work for 100% of Humanity through a Global Government --> to fix the hardest problems of the Planet -->  SOLVE CLIMATE CHANGE - SOLVE INEQUALITY
 
 
 
@@ -17,16 +17,14 @@ We travel together, passengers on a little spaceship where we encounter to solve
 
 
 
-
 EARTH GAME
 
-WORLD PEACE GAME → METAVERSE →SPACESHIP
+WORLD PEACE GAME → METAVERSE → SPACESHIP(s)
 
-EARTH GAME  → Spaceship
 
 (Educational Simulation tool to solve hard global problems such as Climate Change or Inequality)
 
-I believe in SPACESHIP EARTH worldview →  https://en.wikipedia.org/wiki/Spaceship_Earth
+We believe in SPACESHIP EARTH worldview →  https://en.wikipedia.org/wiki/Spaceship_Earth
 
 EARTH GAME  → we travel together, as passengers on a little space ship 
 
