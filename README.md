@@ -1,10 +1,10 @@
-# ORBIT METAVERSE WORLD-PEACE-GAME----EARTH SPACESHIP(s)
+# ORBIT METAVERSE --> WORLD-PEACE-GAME --> EARTH SPACESHIP(s)
 METAVERSE where individuals or teams of people come and cooperate to make the world work for 100% of Humanity through a Global Government --> to fix the hardest problems of the Planet -->  SOLVE CLIMATE CHANGE - SOLVE INEQUALITY
 
 
 
 
-**Name**: WORLD PEACE GAME --> EARTH SPACESHIP 🌍
+**Name**: ORBIT METAVERSE --> EARTH SPACESHIP 🌍
 **Description**: Simulation tool → to solve the hardest problems of the planet Earth and govern our planet together. 
                                  → to educate people to be responsible planetary citizens.
                                  (Making the planet  better for 100% of Humanity )
