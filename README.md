@@ -1,7 +1,7 @@
 #WORLD PEACE GAME -> PLURIVERSE 
 
 
-METAVERSE --> SPACE where individuals or teams of people come and cooperate to make the world work for 100% of Humanity through a Global Government --> to fix the hardest problems of the Planet -->  SOLVE CLIMATE CHANGE - SOLVE INEQUALITY
+METAVERSE --> SPACE where individuals or teams of people come and cooperate to make the world work for 100% of Humanity through a Global Government --> to fix the hardest problems of the Planet -->  SOLVE CLIMATE CHANGE - INEQUALITY
 
 
 
@@ -9,7 +9,7 @@ METAVERSE --> SPACE where individuals or teams of people come and cooperate to m
 **Name**: ORBIT METAVERSE --> EARTH SPACESHIP 🌍
 **Description**: Simulation tool → to solve the hardest problems of the planet Earth and govern our planet together. 
                                  → to educate people to be responsible planetary citizens.
-                                 (Making the planet  better for 100% of Humanity )
+                                 (Making the planet better for 100% of Humanity )
 
 
 **Idea**:  We believe in SPACESHIP EARTH worldview →  https://en.wikipedia.org/wiki/Spaceship_Earth 
