@@ -1,0 +1,54 @@
+use std::collections::HashMap;
+
+#[derive(Debug)]
+struct Participant {
+    name: String,
+    contributions: HashMap<String, u32>, // Problem -> Contribution Points
+    tokens: u32,
+}
+
+impl Participant {
+    fn new(name: &str) -> Self {
+        Participant {
+            name: name.to_string(),
+            contributions: HashMap::new(),
+            tokens: 0,
+        }
+    }
+
+    fn contribute(&mut self, problem: &str, points: u32) {
+        *self.contributions.entry(problem.to_string()).or_insert(0) += points;
+        self.tokens += points; // Earn tokens based on contributions
+    }
+
+    fn display(&self) {
+        println!("Participant: {}", self.name);
+        println!("Contributions: {:?}", self.contributions);
+        println!("Tokens Earned: {}", self.tokens);
+    }
+}
+
+fn simulate_game_round(participants: &mut Vec<Participant>, problem: &str) {
+    for participant in participants {
+        let contribution_points = rand::random::<u32>() % 100; // Random contribution points
+        participant.contribute(problem, contribution_points);
+    }
+}
+
+fn main() {
+    let mut participants = vec![
+        Participant::new("Alice"),
+        Participant::new("Bob"),
+        Participant::new("Charlie"),
+    ];
+
+    let problem = "Climate Change";
+
+    // Simulate a game round
+    simulate_game_round(&mut participants, problem);
+
+    // Display results
+    for participant in &participants {
+        participant.display();
+    }
+}
